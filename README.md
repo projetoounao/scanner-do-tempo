@@ -57,6 +57,10 @@ O Scanner não pertence a uma única disciplina. Entre os campos atualmente em i
 - [`CADERNO_DE_QUESTOES.md`](CADERNO_DE_QUESTOES.md) — perguntas abertas que orientam a pesquisa;
 - [`EIXOS_DE_PESQUISA/`](EIXOS_DE_PESQUISA/) — frentes disciplinares e interdisciplinares;
 - [`FONTES_PUBLICAS/`](FONTES_PUBLICAS/) — fontes, obras e referências públicas usadas no desenvolvimento;
+- [`CRONOLOGIA/`](CRONOLOGIA/) — marcos temporais e critérios de validação;
+- [`PESSOAS_E_INSTITUICOES/`](PESSOAS_E_INSTITUICOES/) — relações documentadas e possíveis interlocuções;
+- [`CITACOES_E_ARGUMENTOS/`](CITACOES_E_ARGUMENTOS/) — matriz de citações, paráfrases e funções argumentativas;
+- [`CAPSULA_DO_TEMPO/`](CAPSULA_DO_TEMPO/) — núcleo documental específico da Cápsula, chaves físicas e corpus visual;
 - [`ENSAIO/`](ENSAIO/) — textos públicos e materiais de leitura em preparação;
 - [`EXTENSAO_E_PARCERIAS/`](EXTENSAO_E_PARCERIAS/) — possibilidades de colaboração, extensão e articulação institucional;
 - [`COMO_COLABORAR.md`](COMO_COLABORAR.md) — formas possíveis de participação.
