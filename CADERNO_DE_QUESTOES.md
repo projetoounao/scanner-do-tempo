@@ -40,14 +40,19 @@ Este arquivo reúne **perguntas abertas** do Scanner do Tempo de Cuité. Elas n�
 - Como documentar o processo pelo qual uma memória foi registrada, reinterpretada ou identificada posteriormente?
 - Como garantir que a comunidade seja coprodutora e beneficiária da memória, e não apenas fornecedora de conteúdo?
 
-## 6. Meteorologia e memória atmosférica
+## 6. Meteorologia e memória atmosférica territorial
 
 - Que papel a Meteorologia pode ter dentro de um sistema territorial de memória?
+- Que componentes da Meteorologia precisam ser considerados para que registros atmosféricos permaneçam cientificamente interpretáveis ao longo do tempo?
 - Que fontes meteorológicas confiáveis existem para Cuité e quais períodos representam?
 - Como relacionar dados meteorológicos a documentos, fotografias e memórias sem tratá-los como equivalentes?
+- Como distinguir observação instrumental, observação humana, produto remoto, análise, reanálise, previsão e simulação?
 - Que recorte seria cientificamente defensável para uma primeira investigação?
 - Como distinguir documentação do tempo atmosférico, investigação meteorológica e interpretação climática?
 - Que observações futuras fariam sentido apenas depois de definidos problema, escala, método e critérios de qualidade?
+- Que metadados precisam acompanhar cada classe de registro ou produto para permitir interpretação futura?
+- Como preservar dado bruto, correções, flags de qualidade e versões sem apagar a história do processamento?
+- Como documentar mudanças de instrumento, método, local, resolução, frequência ou algoritmo sem confundi-las com mudanças reais da atmosfera?
 
 ## 7. Memória ambiental e território
 
@@ -70,6 +75,8 @@ Este arquivo reúne **perguntas abertas** do Scanner do Tempo de Cuité. Elas n�
 - Como representar autoria desconhecida, data aproximada, local incerto ou identificação posterior?
 - Como relacionar registros sem confundir cópias, versões, derivados e originais?
 - Como documentar níveis de certeza das descrições?
+- Como registrar o percurso pelo qual uma fonte ou registro sustenta uma interpretação e, posteriormente, conteúdos derivados para educação, museus, divulgação, comunicação institucional ou outras formas de circulação?
+- Como preservar o vínculo entre conteúdo derivado, fonte consultada e versão utilizada sem transformar o sistema documental em autoridade que determine uma verdade final?
 
 ## 10. Preservação digital
 
