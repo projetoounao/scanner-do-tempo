@@ -38,10 +38,10 @@ O Scanner não pertence a uma única disciplina. Entre os campos atualmente em i
 - História de Cuité e historiografia local;
 - Museologia, patrimônio e educação patrimonial;
 - memória coletiva e história oral;
-- Meteorologia e memória atmosférica;
+- Meteorologia e memória atmosférica territorial;
 - memória ambiental e observação territorial;
 - Fotografia e audiovisual;
-- Ciência da Informação e organização documental;
+- Ciência da Informação, proveniência, metadados e rastreabilidade da informação;
 - preservação digital de longo prazo;
 - Computação;
 - Matemática;
