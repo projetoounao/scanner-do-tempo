@@ -83,6 +83,17 @@ Uma fotografia pode exigir simultaneamente:
 - descrição acessível;
 - eventual identificação colaborativa pela comunidade.
 
+## Traduções entre áreas e contextos
+
+A interdisciplinaridade também exige atenção às transformações pelas quais uma informação passa quando é reinterpretada por outro campo ou convertida em produto educacional, editorial ou público.
+
+A questão não é impedir traduções, mas investigar **em que condições elas permanecem rastreáveis às fontes, métodos, limitações, versões e contextos que lhes deram origem**.
+
+Duas perguntas orientam essa frente:
+
+- O que precisa permanecer associado a uma informação quando ela atravessa disciplinas ou contextos de uso?
+- Como permitir novas interpretações sem apagar a genealogia informacional que torna possível criticá-las?
+
 ## Educação como espaço de encontro
 
 Projetos didáticos e de extensão podem ser um laboratório importante para a interdisciplinaridade do Scanner, desde que cada atividade tenha pergunta, método e finalidade claramente definidos.
