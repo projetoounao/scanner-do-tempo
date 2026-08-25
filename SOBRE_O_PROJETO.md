@@ -43,6 +43,16 @@ Da mesma forma:
 - preservar não significa tornar público;
 - autorizar pesquisa não significa autorizar reprodução.
 
+O Scanner procura preservar não apenas os objetos ou arquivos, mas também informações que permitam compreender sua **proveniência, temporalidade, versões, transformações, limitações e relações com interpretações posteriores**.
+
+## Máquina historiográfica como hipótese de pesquisa
+
+Uma das formulações em investigação descreve o Scanner como uma **máquina historiográfica**.
+
+A expressão não significa uma máquina que produza automaticamente uma narrativa histórica. Ela designa, como hipótese conceitual, um sistema que procura criar condições documentais para que registros presentes possam ser criticados, relacionados e reinterpretados pela historiografia futura.
+
+Essa formulação permanece em desenvolvimento e não substitui as sete funções nem as distinções documentais já estabelecidas.
+
 ## Longa duração
 
 O horizonte de 2068 é utilizado como um teste metodológico. Para qualquer registro produzido hoje, o projeto pode perguntar:
@@ -53,6 +63,8 @@ O horizonte de 2068 é utilizado como um teste metodológico. Para qualquer regi
 - conhecerá as transformações pelas quais passou?
 - conhecerá seus limites metodológicos?
 - saberá se pode publicá-lo ou reutilizá-lo?
+
+A preservação de um registro inclui, portanto, a possibilidade de compreender não apenas **o que foi guardado**, mas também **como aquele registro foi produzido, modificado, utilizado e interpretado ao longo do tempo**.
 
 Nesse sentido, **2068 é menos um destino do que um método para avaliar a robustez documental do presente**.
 
