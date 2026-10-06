@@ -41,6 +41,19 @@ Para o Scanner, Cuité não é apenas uma sequência de acontecimentos administr
 
 Essas dimensões podem produzir registros de naturezas muito diferentes e exigem métodos também diferentes.
 
+## Nomenclaturas territoriais de referência
+
+Para evitar sobreposição entre classificações de natureza diferente, o Scanner adota as seguintes distinções para Cuité:
+
+- **IBGE atual (desde 2017):** Região Geográfica Imediata de Cuité–Nova Floresta; Região Geográfica Intermediária de Campina Grande;
+- **IBGE histórico (1990–2017):** Microrregião do Curimataú Ocidental; Mesorregião do Agreste Paraibano;
+- **IBGE — biomas:** bioma Caatinga;
+- **SGB/CPRM:** contexto geoambiental/fisiográfico do Planalto da Borborema;
+- **AESA/PBCLIMA:** região pluviométrica do Curimataú;
+- **SUDENE:** município integrante da delimitação oficial do Semiárido brasileiro.
+
+Esses recortes não são equivalentes. Em particular, **Planalto da Borborema** não significa **Mesorregião da Borborema**, e **Curimataú** deve ser qualificado conforme a finalidade quando estiver sendo usado como recorte estatístico, meteorológico ou institucional.
+
 ## Fontes locais
 
 Entre as fontes que podem contribuir para a construção desse corpus estão:
