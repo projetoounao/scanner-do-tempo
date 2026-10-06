@@ -65,6 +65,19 @@ Um eixo atualmente considerado para avaliação é:
 
 Ele permanece como hipótese de recorte, sujeita a reformulação ou substituição conforme as fontes disponíveis, a orientação acadêmica e a pertinência meteorológica.
 
+## Regra de nomenclatura territorial
+
+As classificações territoriais usadas na frente meteorológica devem sempre informar sua finalidade:
+
+- **IBGE atual:** Região Geográfica Imediata de Cuité–Nova Floresta e Região Geográfica Intermediária de Campina Grande;
+- **IBGE histórico:** Microrregião do Curimataú Ocidental e Mesorregião do Agreste Paraibano;
+- **AESA/PBCLIMA:** Curimataú como região pluviométrica do monitoramento estadual;
+- **SGB/CPRM:** Planalto da Borborema como unidade geoambiental/fisiográfica;
+- **IBGE — biomas:** Caatinga;
+- **SUDENE:** Semiárido brasileiro como delimitação institucional.
+
+Nenhuma dessas categorias deve ser usada como sinônimo de outra. Em especial, **Planalto da Borborema** não equivale à antiga **Mesorregião da Borborema**.
+
 ## Questões abertas
 
 - Que fontes meteorológicas confiáveis existem para Cuité?
