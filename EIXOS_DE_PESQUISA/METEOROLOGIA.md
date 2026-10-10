@@ -78,6 +78,18 @@ As classificações territoriais usadas na frente meteorológica devem sempre in
 
 Nenhuma dessas categorias deve ser usada como sinônimo de outra. Em especial, **Planalto da Borborema** não equivale à antiga **Mesorregião da Borborema**.
 
+
+
+## Marco acadêmico — CBMET 2026
+
+Em **10 de outubro de 2026**, o trabalho **“Comparação de temperatura e precipitação diárias entre produtos meteorológicos gradeados em Cuité de 2020 a 2023”**, desenvolvido no contexto da formação em Meteorologia na UFCG, foi **aprovado para publicação nos anais do XXIV Congresso Brasileiro de Meteorologia (CBMET 2026)**. O parecer registrado pela Comissão Científica informou: **“Trabalho original e sem correções.”**
+
+O estudo compara BR-DWGD e ERA5-Land para temperatura máxima, temperatura mínima e precipitação, mantendo explícita a distinção entre **intercomparação de produtos gradeados** e **validação instrumental local**.
+
+Para o Scanner do Tempo, esse marco é tratado como **produto acadêmico associado à frente meteorológica de Cuité**, e não como validação do Scanner, de uma estação futura ou de uma arquitetura técnica. Os resultados poderão alimentar o Dossiê Meteorológico após incorporação com proveniência, método e limitações preservados.
+
+Próximos desdobramentos públicos previstos: preparação da apresentação do congresso, consolidação dos dossiês de Cuité e formulação de novas perguntas de pesquisa a partir dos limites identificados no trabalho.
+
 ## Questões abertas
 
 - Que fontes meteorológicas confiáveis existem para Cuité?
