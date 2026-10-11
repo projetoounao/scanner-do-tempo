@@ -14,7 +14,7 @@ Pesquisa de fontes, cronologias, personagens, instituições, lugares, acontecim
 
 ### Museologia e patrimônio
 
-Formação de acervos, proveniência, documentação museológica, participação comunitária, educação patrimonial, mediação, direitos e formas de devolução pública.
+Formação de acervos, proveniência, documentação museológica, participação comunitária, educação patrimonial, mediação, direitos e formas de devolução pública. A pesquisa passa a utilizar explicitamente a literatura de Museologia Social, ecomuseus e museus comunitários para formular questões sobre território, patrimônio, participação e memória, sem classificar previamente o Scanner ou o Museu do Homem do Curimataú dentro dessas tipologias.
 
 ### Memória coletiva e história oral
 
@@ -58,7 +58,7 @@ Descrição de imagens, transcrição, leitura em voz alta, conteúdos matemáti
 
 ### Ética e direitos
 
-Consentimento, privacidade, menores de idade, autoria, reprodução, publicação, restrições e níveis de acesso.
+Consentimento, privacidade, menores de idade, autoria, reprodução, publicação, restrições e níveis de acesso. A frente inclui também questões de ética e epistemologia da governança: quem decide, quem valida, como separar financiamento/gestão de autoridade científica, como preservar autoria e historicidade e como evitar infraestrutura sem capacidade humana e institucional duradoura.
 
 ### Participação comunitária
 
