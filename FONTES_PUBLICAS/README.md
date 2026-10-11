@@ -10,6 +10,7 @@ O objetivo não é transformar toda fonte em prova automática de uma hipótese.
 - [`NOSSA_TERRA_NOSSA_GENTE.md`](NOSSA_TERRA_NOSSA_GENTE.md) — livro coletivo que constitui uma das bases do projeto;
 - [`CAPSULA_DO_TEMPO.md`](CAPSULA_DO_TEMPO.md) — documentação pública sobre a Cápsula do Tempo de Cuité;
 - [`MUSEU_DO_HOMEM_DO_CURIMATAU.md`](MUSEU_DO_HOMEM_DO_CURIMATAU.md) — referências públicas sobre o Museu e seu papel na pesquisa.
+- [`MUSEOLOGIA_MEMORIA_COMUNIDADE.md`](MUSEOLOGIA_MEMORIA_COMUNIDADE.md) — fonte prioritária e questões sobre Museologia Social, ecomuseus/museus comunitários, território, patrimônio, memória, participação e mediação.
 
 ## Princípio de uso
 
