@@ -93,3 +93,26 @@ O projeto mantém uma distinção deliberada entre:
 - **camada pública**, formada apenas por conteúdos revisados e destinados explicitamente à circulação.
 
 Este repositório corresponde à segunda camada.
+
+
+## Relação com *Nossa terra, nossa gente* e CuitePB
+
+O Scanner mantém relações diferentes com dois produtos editoriais ligados a Cuité.
+
+**_Nossa terra, nossa gente_** é uma das bases documentais e genealógicas da pesquisa. O livro inteiro é estudado como corpus capaz de fornecer temas, pessoas, lugares, fontes, lacunas e perguntas, mantendo a autoria e o contexto de cada tópico.
+
+**CuitePB.com.br** é uma publicação editorial territorial autônoma. Pode divulgar matérias, versões de comunicação, chamadas para participação e outros conteúdos derivados de resultados públicos do Scanner, mas não é componente técnico ou institucional do projeto.
+
+A relação desejada é:
+
+```text
+livro e outras fontes
+→ pesquisa
+→ Scanner
+→ resultados revisados e públicos
+→ CuitePB / outros canais de circulação
+```
+
+Contribuições recebidas por canais editoriais não entram automaticamente no Scanner. Precisam de avaliação de proveniência, direitos, contexto e pertinência.
+
+Essa separação permite que o Scanner tenha uma interface pública própria, enquanto o CuitePB atua como um possível canal externo de circulação e mediação editorial.
