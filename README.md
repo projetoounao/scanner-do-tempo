@@ -1,5 +1,7 @@
 # Scanner do Tempo de Cuité
 
+**Para leitores do livro e do QR code:** [entre no portal público do Scanner do Tempo](LEITOR_DO_LIVRO.md), com [recursos por capítulo](LIVRO/INDICE_DE_RECURSOS.md) e informações sobre a pesquisa. O manuscrito completo em preparação editorial não está disponível publicamente.
+
 **Pesquisa pública em desenvolvimento sobre memória, território, documentação e longa duração em Cuité-PB.**
 
 O **Scanner do Tempo de Cuité** é uma proposta de pesquisa que investiga como uma comunidade pode produzir, organizar, relacionar, preservar, interpretar e devolver registros sobre suas próprias transformações ao longo do tempo.
