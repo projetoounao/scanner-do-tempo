@@ -19,7 +19,7 @@ Legenda: **Referência pública** = link aberto conhecido; **Em preparação** =
 | 11. Cuité como território observável | Cartografia, relevo e fontes geohistóricas revisadas | Em preparação |
 | 12. O tempo atmosférico dentro do tempo histórico | [Bases de dados e produtos da pesquisa](../DADOS/README.md) e [Eixos de pesquisa](../EIXOS_DE_PESQUISA/README.md) | Referência pública |
 | 13. Fonte, evidência e interpretação | Notas públicas de procedência e leitura crítica | Em preparação |
-| 14. Fotografias, vídeos e a construção da memória | [Corpus visual e audiovisual da Cápsula](../CAPSULA_DO_TEMPO/CORPUS_VISUAL_E_AUDIOVISUAL.md) | Referência pública |
+| 14. Fotografias, vídeos e a construção da memória | [Acervo visual e audiovisual](../MIDIA/README.md) e [Corpus da Cápsula](../CAPSULA_DO_TEMPO/CORPUS_VISUAL_E_AUDIOVISUAL.md) | Referência pública |
 | 15. Participação comunitária: receber não é publicar | [Como colaborar com segurança](../COMO_COLABORAR.md) | Referência pública |
 | 16. Guardar não é preservar: cinquenta anos digitais | Referências de preservação digital e direitos | Em preparação |
 | 17. Tecnologia depois do problema | Requisitos, padrões candidatos e limites dos protótipos | Em preparação |
