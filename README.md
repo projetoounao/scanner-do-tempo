@@ -79,3 +79,5 @@ Este repositório **não é um espelho do repositório interno de pesquisa**. S�
 Projeto em desenvolvimento por **Mayra Clara Albuquerque Venâncio dos Santos**, em diálogo com pesquisas, documentos, instituições, professores, autores, moradores e possíveis colaboradores de diferentes áreas.
 
 A presença de uma instituição ou organização como possibilidade de interlocução neste repositório **não implica parceria, apoio, vínculo institucional ou anuência formal**.
+
+**Imagens, animações e vídeos:** [coleções visuais em organização](MIDIA/README.md). Os arquivos dependem de curadoria, créditos e direitos de circulação.
