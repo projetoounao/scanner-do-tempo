@@ -21,6 +21,7 @@ São investigadas, entre outras possibilidades, uma série fotográfica de ponto
 ## Caminhos de leitura
 
 - [Recursos complementares organizados pelos 21 capítulos do livro](LIVRO/INDICE_DE_RECURSOS.md)
+- [Bases meteorológicas e geoespaciais efetivamente mobilizadas, com fontes e estatutos](DADOS/README.md)
 - [Como serão selecionados e divulgados arquivos complementares](LIVRO/POLITICA_DE_PUBLICACAO.md)
 - [Sobre a pesquisa e suas sete funções](SOBRE_O_PROJETO.md)
 - [Cápsula do Tempo — documentação pública](CAPSULA_DO_TEMPO/README.md)
