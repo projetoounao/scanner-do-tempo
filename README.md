@@ -63,6 +63,7 @@ O Scanner não pertence a uma única disciplina. Entre os campos atualmente em i
 - [`PESSOAS_E_INSTITUICOES/`](PESSOAS_E_INSTITUICOES/) — relações documentadas e possíveis interlocuções;
 - [`CITACOES_E_ARGUMENTOS/`](CITACOES_E_ARGUMENTOS/) — matriz de citações, paráfrases e funções argumentativas;
 - [`CAPSULA_DO_TEMPO/`](CAPSULA_DO_TEMPO/) — núcleo documental específico da Cápsula, chaves físicas e corpus visual;
+- [`DADOS/`](DADOS/) — bases meteorológicas e geoespaciais efetivamente mobilizadas, fontes e limites de publicação;
 - [`ENSAIO/`](ENSAIO/) — textos públicos e materiais de leitura em preparação;
 - [`EXTENSAO_E_PARCERIAS/`](EXTENSAO_E_PARCERIAS/) — possibilidades de colaboração, extensão e articulação institucional;
 - [`COMO_COLABORAR.md`](COMO_COLABORAR.md) — formas possíveis de participação.
