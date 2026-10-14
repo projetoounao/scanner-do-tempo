@@ -22,6 +22,7 @@ São investigadas, entre outras possibilidades, uma série fotográfica de ponto
 
 - [Recursos complementares organizados pelos 21 capítulos do livro](LIVRO/INDICE_DE_RECURSOS.md)
 - [Bases meteorológicas e geoespaciais efetivamente mobilizadas, com fontes e estatutos](DADOS/README.md)
+- [Acervo visual e audiovisual: fotografias históricas, registros de 2018 e animações](MIDIA/README.md)
 - [Como serão selecionados e divulgados arquivos complementares](LIVRO/POLITICA_DE_PUBLICACAO.md)
 - [Sobre a pesquisa e suas sete funções](SOBRE_O_PROJETO.md)
 - [Cápsula do Tempo — documentação pública](CAPSULA_DO_TEMPO/README.md)
