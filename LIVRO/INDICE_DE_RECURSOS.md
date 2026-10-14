@@ -17,14 +17,14 @@ Legenda: **Referência pública** = link aberto conhecido; **Em preparação** =
 | 9. O Scanner do Tempo: outra semente | [As sete funções do Scanner](../SOBRE_O_PROJETO.md) | Referência pública |
 | 10. Da abundância de arquivos à inteligibilidade futura | Fontes e metadados de proveniência | Em preparação |
 | 11. Cuité como território observável | Cartografia, relevo e fontes geohistóricas revisadas | Em preparação |
-| 12. O tempo atmosférico dentro do tempo histórico | [Eixos de pesquisa — Meteorologia](../EIXOS_DE_PESQUISA/README.md) | Referência pública |
+| 12. O tempo atmosférico dentro do tempo histórico | [Bases de dados e produtos da pesquisa](../DADOS/README.md) e [Eixos de pesquisa](../EIXOS_DE_PESQUISA/README.md) | Referência pública |
 | 13. Fonte, evidência e interpretação | Notas públicas de procedência e leitura crítica | Em preparação |
 | 14. Fotografias, vídeos e a construção da memória | [Corpus visual e audiovisual da Cápsula](../CAPSULA_DO_TEMPO/CORPUS_VISUAL_E_AUDIOVISUAL.md) | Referência pública |
 | 15. Participação comunitária: receber não é publicar | [Como colaborar com segurança](../COMO_COLABORAR.md) | Referência pública |
 | 16. Guardar não é preservar: cinquenta anos digitais | Referências de preservação digital e direitos | Em preparação |
 | 17. Tecnologia depois do problema | Requisitos, padrões candidatos e limites dos protótipos | Em preparação |
 | 18. Interdisciplinaridade como encontro de perguntas | [Eixos de pesquisa](../EIXOS_DE_PESQUISA/README.md) | Referência pública |
-| 19. O lugar da Meteorologia e da pesquisa acadêmica | Metadados de fontes e séries, sem redistribuir material restrito | Em preparação |
+| 19. O lugar da Meteorologia e da pesquisa acadêmica | [Catálogo público de fontes, bases e derivados](../DADOS/README.md), sem distribuir material restrito | Referência pública |
 | 20. Devolver: quando a memória volta à cidade | Protótipos de apresentação pública, quando autorizados | Em preparação |
 | 21. 2068 como horizonte metodológico | Revisões futuras, continuidade e legibilidade dos registros | Em preparação |
 
